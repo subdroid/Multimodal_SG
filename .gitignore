@@ -17,6 +17,14 @@ figures
 .history-*
 *.sh.e*
 *.sh.o*
+**/computed/
+**/computed
+computed/
+computed
+**/training_logs/
+**/training_logs
+training_logs
+training_logs/
 **/huggingface/
 **/huggingface
 huggingface
