@@ -1,0 +1,148 @@
+{'uid': 'sahara', 'sent': 'Several plates of food are set on a table.', 'word_times': [3269, 5987, 2243, 1110, 5305, 1717, 1194, 1610, 1023], 'accuracy': [-1, 0, 0, 4, 1, 3, 4, 3, 4], 'id': '000000062554'}
+{'uid': 'sahara', 'sent': 'Several plates of food are set on a table.', 'word_times': [2416, 2602, 2269, 2536, 2702, 1117, 823, 1454, 1112], 'confidence': [0, 1, 4, 2, 1, 3, 4, 4, 4], 'id': '000000062554'}
+
+
+{'uid': 'sahara', 'sent': 'A woman slashing down a snowy hill on skis.', 'word_times': [2417, 1449, 1854, 2017, 1008, 4821, 1369, 1404, 2429], 'accuracy': [-1, -1, 0, 0, 4, 0, 4, 4, 3], 'id': '000000493442'}
+{'uid': 'sahara', 'sent': 'A woman slashing down a snowy hill on skis.', 'word_times': [1658, 4055, 1252, 1512, 1217, 2502, 1167, 2816, 1234], 'confidence': [0, 0, 3, 4, 1, 2, 4, 2, 4], 'id': '000000493442'}
+
+
+{'uid': 'sahara', 'sent': 'A couple of black cows standing on the top of a grassy hill.', 'word_times': [1856, 2158, 1437, 2321, 1703, 3486, 2619, 1431, 2149, 734, 2603, 3129, 1468], 'accuracy': [-1, 0, 4, 0, -1, 2, 2, 4, 3, 4, 2, 3, 3], 'id': '000000244411'}
+{'uid': 'sahara', 'sent': 'A couple of black cows standing on the top of a grassy hill.', 'word_times': [2421, 3063, 2017, 2316, 4911, 1425, 1651, 1572, 748, 1184, 1389, 2275, 1034], 'confidence': [0, 1, 4, 1, 0, 4, 4, 3, 4, 4, 4, 4, 4], 'id': '000000244411'}
+
+
+{'uid': 'sahara', 'sent': 'A black sculpture of a torso is on the floor next to a TV.', 'word_times': [1686, 2073, 3576, 4405, 5506, 2118, 910, 2086, 985, 4888, 3820, 942, 1802, 2786], 'accuracy': [-1, -1, 0, 4, 4, 0, 4, 2, 4, 3, 1, 4, 3, -1], 'id': '000000154431'}
+{'uid': 'sahara', 'sent': 'A black sculpture of a torso is on the floor next to a TV.', 'word_times': [2520, 1455, 2354, 1216, 1133, 3563, 1566, 1883, 1767, 1367, 2034, 1335, 576, 2085], 'confidence': [0, 1, 4, 4, 2, 2, 4, 4, 4, 1, 4, 4, 4, 0], 'id': '000000154431'}
+
+
+{'uid': 'ankara', 'sent': 'Several plates of food are set on a table.', 'word_times': [2536, 3609, 2545, 2328, 1823, 1945, 3273, 3359, -1], 'accuracy': [0, 0, 1, 3, 2, 3, 4, 3, -1], 'id': '000000062554'}
+{'uid': 'ankara', 'sent': 'Several plates of food are set on a table.', 'word_times': [7137, 2780, 2067, 4494, 11027, 2950, 1768, 1893, 5094], 'confidence': [2, 1, 3, 2, 3, 1, 3, 2, 2], 'id': '000000062554'}
+
+
+{'uid': 'ankara', 'sent': 'United States President Barack Obama gives a speech in front of American and Russian flags.', 'word_times': [1842, 2412, 3644, 1883, 1502, 1973, 1104, 1229, 1285, 2402, 987, 3076, 2583, 1811, 3206], 'accuracy': [0, 0, 0, 0, 4, 3, 4, 4, 4, 0, 4, 0, 1, 0, 2], 'id': '000000344268'}
+{'uid': 'ankara', 'sent': 'United States President Barack Obama gives a speech in front of American and Russian flags.', 'word_times': [2488, 1600, 2839, 2251, 1763, 4916, 2067, 1577, 1508, 1040, 1122, 1888, 1248, 2397, 2275], 'confidence': [3, 3, 3, 1, 4, 3, 4, 4, 4, 4, 4, 4, 4, 4, 4], 'id': '000000344268'}
+
+
+{'uid': 'lome', 'sent': 'An Adidas advertisement depicts a male and a female tennis player on the court.', 'word_times': [4287, 2421, 2515, 3243, 1041, 2250, 1714, 1835, 873, 3644, 1272, 2318, 2081, 2686], 'accuracy': [0, 0, 0, 0, 4, 0, 0, 3, 4, 0, 4, 1, 4, 3], 'id': '000000438304'}
+{'uid': 'lome', 'sent': 'An Adidas advertisement depicts a male and a female tennis player on the court.', 'word_times': [12441, 1843, 2489, 2636, 1564, 2684, 1697, 1134, 662, 3225, 5330, 2548, 1277, 2409], 'confidence': [0, 0, 1, 1, 2, 0, 1, 2, 2, 0, 2, 1, 3, 3], 'id': '000000438304'}
+
+
+{'uid': 'lome', 'sent': 'A black sculpture of a torso is on the floor next to a TV.', 'word_times': [4226, 2431, 2798, 3850, 1150, 2385, 2514, 2117, 1978, 6020, 3415, 1002, 1506, 2238], 'accuracy': [0, 0, 1, 2, 4, 1, 0, 0, 3, 2, 1, 4, 3, 1], 'id': '000000154431'}
+{'uid': 'lome', 'sent': 'A black sculpture of a torso is on the floor next to a TV.', 'word_times': [2240, 1898, 1885, 1468, 2685, 5176, 1702, 2185, 3522, 1489, 3206, 2003, 901, 3297], 'confidence': [0, 0, 1, 1, 2, 0, 1, 2, 3, 3, 1, 3, 4, 1], 'id': '000000154431'}
+
+
+{'uid': 'lome', 'sent': 'United States President Barack Obama gives a speech in front of American and Russian flags.', 'word_times': [1889, 5198, 2553, 3754, 1053, 2747, 2074, 1150, 1756, 3320, 1264, 3285, 2565, 2313, 3320], 'accuracy': [0, 1, 0, 0, 4, 1, 3, 4, 3, 1, 4, 1, 1, 2, 1], 'id': '000000344268'}
+{'uid': 'lome', 'sent': 'United States President Barack Obama gives a speech in front of American and Russian flags.', 'word_times': [3901, 1912, 2084, 2911, 889, 6401, 1327, 899, 4179, 982, 1307, 898, 2594, 2158, 1623], 'confidence': [3, 1, 2, 2, 4, 2, 3, 3, 2, 3, 4, 4, 2, 2, 3], 'id': '000000344268'}
+
+
+{'uid': 'caracas', 'sent': 'Food trucks are parked around small oval tables.', 'word_times': [5809, 7064, 11275, 4885, 2572, 7180, 9367, 14974], 'accuracy': [0, -1, 1, 1, 3, 0, 0, 1], 'id': '000000153011'}
+{'uid': 'caracas', 'sent': 'Food trucks are parked around small oval tables.', 'word_times': [13312, 5596, 14218, 13750, 4833, 10608, 4721, 7384], 'confidence': [0, 0, 3, 2, 3, 3, 1, 0], 'id': '000000153011'}
+
+
+{'uid': 'montevideo', 'sent': 'A medium sized home kitchen with wood cabinets.', 'word_times': [1235, 1201, 2869, 1835, 2419, 5788, 1359, 2093], 'accuracy': [-1, -1, -1, -1, 0, -1, -1, 0], 'id': '000000437898'}
+{'uid': 'montevideo', 'sent': 'A medium sized home kitchen with wood cabinets.', 'word_times': [2870, 2198, 2264, 2449, 2413, 2199, 1405, 1465], 'confidence': [0, 0, 0, 0, 1, 0, 0, 2], 'id': '000000437898'}
+
+
+{'uid': 'montevideo', 'sent': 'People watching an on screen presentation of a gentleman in a suit.', 'word_times': [1912, 2113, 1569, 3672, 3417, 3168, 1048, 1056, 5328, 4818, 848, 15689], 'accuracy': [-1, 0, 3, -1, -1, 1, 4, 4, 1, 0, 4, 0], 'id': '000000008021'}
+{'uid': 'montevideo', 'sent': 'People watching an on screen presentation of a gentleman in a suit.', 'word_times': [1439, 1399, 1511, 1256, 743, 879, 1592, 977, 1968, 2687, 1839, 4455], 'confidence': [0, 2, 4, 0, 0, 2, 3, 4, 1, 1, 4, 1], 'id': '000000008021'}
+
+
+{'uid': 'montevideo', 'sent': 'A group of young children riding skis down a snow covered mountain.', 'word_times': [1832, 946, 882, 1152, 2624, 1786, 3976, 2808, 1808, 5929, 5432, 2289], 'accuracy': [-1, -1, 4, -1, 1, 0, 0, 0, 3, 1, 0, 2], 'id': '000000384666'}
+{'uid': 'montevideo', 'sent': 'A group of young children riding skis down a snow covered mountain.', 'word_times': [2489, 807, 710, 687, 1592, 1447, 1255, 1496, 616, 704, 1807, 743], 'confidence': [0, 0, 4, 0, 3, 4, 4, 1, 4, 4, 2, 4], 'id': '000000384666'}
+
+
+{'uid': 'montevideo', 'sent': 'Young children sharing a laptop in a messy room with several laptops, books, and papers.', 'word_times': [2361, 5017, 3081, 969, 2840, 4985, 841, 3305, 1329, 3849, 1825, 4097, 2416, 994, 1784], 'accuracy': [-1, 1, -1, 4, 0, 0, 4, 0, 4, 0, 0, -1, 0, 4, 0], 'id': '000000529148'}
+{'uid': 'montevideo', 'sent': 'Young children sharing a laptop in a messy room with several laptops, books, and papers.', 'word_times': [1269, 1927, 1463, 879, 2095, 9184, 919, 1319, 2615, 1823, 3247, 4303, 2080, 838, 3151], 'confidence': [0, 2, 1, 4, 2, 0, 4, 2, 2, 1, 4, 0, 1, 4, 4], 'id': '000000529148'}
+
+
+{'uid': 'stockholm', 'sent': 'Several plates of food are set on a table.', 'word_times': [3331, 1430, 1137, 1317, 1194, 1024, 1288, 1149, 3026], 'accuracy': [-1, -1, -1, -1, -1, -1, 4, 4, 3], 'id': '000000062554'}
+{'uid': 'stockholm', 'sent': 'Several plates of food are set on a table.', 'word_times': [2210, 2001, 1056, 1451, 1157, 1405, 3249, 1920, 2777], 'confidence': [0, 0, 0, 0, 0, 0, 1, 2, 0], 'id': '000000062554'}
+
+
+{'uid': 'stockholm', 'sent': 'A woman slashing down a snowy hill on skis.', 'word_times': [5368, 2046, 1393, 3679, 2970, 1733, 2948, 1668, 3938], 'accuracy': [2, -1, -1, -1, 1, 0, -1, 0, 2], 'id': '000000493442'}
+{'uid': 'stockholm', 'sent': 'A woman slashing down a snowy hill on skis.', 'word_times': [2018, 3194, 1780, 2407, 1406, 1710, 1540, 1867, 1256], 'confidence': [0, 0, 1, 0, 1, 1, 0, 1, 0], 'id': '000000493442'}
+
+
+{'uid': 'stockholm', 'sent': 'An Adidas advertisement depicts a male and a female tennis player on the court.', 'word_times': [2937, 2026, 6491, 2240, 1587, 2589, 4860, 1023, 1384, 1789, 1982, 1666, 2071, 1101], 'accuracy': [-1, 0, 0, 1, 2, 0, 0, 4, 4, 0, 3, 0, 3, 4], 'id': '000000438304'}
+{'uid': 'stockholm', 'sent': 'An Adidas advertisement depicts a male and a female tennis player on the court.', 'word_times': [1582, 1956, 1428, 1248, 1472, 1181, 2180, 1171, 1766, 4364, 1046, 1810, 1572, 2296], 'confidence': [0, 0, 0, 1, 1, 1, 0, 3, 4, 2, 1, 2, 3, 4], 'id': '000000438304'}
+
+
+{'uid': 'stockholm', 'sent': 'Food trucks are parked around small oval tables.', 'word_times': [2058, 1238, 1497, 2397, 1610, 1182, 1767, 1316], 'accuracy': [-1, -1, -1, 0, -1, -1, -1, -1], 'id': '000000153011'}
+{'uid': 'stockholm', 'sent': 'Food trucks are parked around small oval tables.', 'word_times': [1918, 1440, 1135, 59338, 1631, 1056, 1281, 967], 'confidence': [0, 0, 0, 1, 0, 0, 0, 0], 'id': '000000153011'}
+
+
+{'uid': 'zimbabwe', 'sent': 'A man standing next to train tracks with bags of luggage.', 'word_times': [9229, 1970, 2355, 2089, 1330, 1938, 1599, 1514, 1852, 1850, 2817], 'accuracy': [0, 0, 1, 2, 4, 1, 3, 0, 2, 0, 0], 'id': '000000356427'}
+{'uid': 'zimbabwe', 'sent': 'A man standing next to train tracks with bags of luggage.', 'word_times': [73, 6077, 3077, 2117, 1177, 1646, 2318, 4280, 4365, 2293, 1967], 'confidence': [0, 0, 2, 1, 3, 4, 2, 0, 1, 0, 0], 'id': '000000356427'}
+
+
+{'uid': 'zimbabwe', 'sent': 'The person is standing in the deep snow. The trees are covered with snow.', 'word_times': [3075, 2438, 1209, 2171, 3841, 1410, 1962, 2299, 9355, 3371, 1523, 2394, 1374, 5427], 'accuracy': [4, 0, 4, 0, 2, 4, 1, 0, 1, 0, 0, 2, 4, 3], 'id': '000000266409'}
+{'uid': 'zimbabwe', 'sent': 'The person is standing in the deep snow. The trees are covered with snow.', 'word_times': [1637, 3206, 2114, 2846, 3294, 2584, 2004, 1271, 2869, 1564, 4605, 12013, 1103, 1425], 'confidence': [4, 0, 3, 0, 2, 4, 2, 0, 4, 0, 0, 2, 4, 2], 'id': '000000266409'}
+
+
+{'uid': 'zimbabwe', 'sent': 'a young man doing a jump with his skateboard in a skate park', 'word_times': [3211, 3841, 1556, 2722, 2010, 1565, 1068, 2004, 1810, 2796, 1803, 1234, 1240], 'accuracy': [0, 0, 3, 2, 1, 3, 0, 1, 4, 1, 0, 4, 4], 'id': '000000349860'}
+{'uid': 'zimbabwe', 'sent': 'a young man doing a jump with his skateboard in a skate park', 'word_times': [1786, 1174, 1230, 2733, 4806, 1204, 2668, 2588, 1053, 2068, 1422, 797, 750], 'confidence': [0, 0, 3, 4, 3, 4, 0, 3, 4, 4, 0, 4, 4], 'id': '000000349860'}
+
+
+{'uid': 'cardiff', 'sent': 'People watching an on screen presentation of a gentleman in a suit.', 'word_times': [6367, 3785, 2021, 6700, 4091, 5600, 2398, 5107, 4576, 57581, 2641, 2750], 'accuracy': [0, 0, 3, 0, -1, 2, 2, 1, 0, 1, 4, 0], 'id': '000000008021'}
+{'uid': 'cardiff', 'sent': 'People watching an on screen presentation of a gentleman in a suit.', 'word_times': [3501, 22777, 2928, 5628, 9057, 3314, 7798, 7335, 4675, 2758, 3866, 48994], 'confidence': [2, 3, 3, 2, 0, 2, 2, 2, 2, 1, 2, 2], 'id': '000000008021'}
+
+
+{'uid': 'cardiff', 'sent': 'A black sculpture of a torso is on the floor next to a TV.', 'word_times': [1549, 2608, 4286, 2683, 1552, 3902, 1380, 2391, 1457, 4138, 2753, 1368, 1237, 3121], 'accuracy': [4, 0, 0, 1, 4, 1, 4, 2, 3, 2, 1, 4, 4, 1], 'id': '000000154431'}
+{'uid': 'cardiff', 'sent': 'A black sculpture of a torso is on the floor next to a TV.', 'word_times': [3131, 2004, 1549, 2305, 2589, 3671, 1733, 1430, 2073, 1727, 1508, 10021, 1164, 4586], 'confidence': [4, 4, 3, 3, 4, 3, 4, 3, 4, 3, 4, 4, 4, 3], 'id': '000000154431'}
+
+
+{'uid': 'ashgabat', 'sent': 'A macbook laptop next to a phone, backpack, and various books.', 'word_times': [3184, 2390, 1928, 1684, 1089, 1499, 2487, 2683, 4385, 1326, 1490], 'accuracy': [0, 0, 0, 0, 4, 4, 0, 0, 0, 0, 0], 'id': '000000553664'}
+{'uid': 'ashgabat', 'sent': 'A macbook laptop next to a phone, backpack, and various books.', 'word_times': [27248, 1107, 2177, 1948, 1653, 1069, 5938, 3742, 1396, 1165, 908], 'confidence': [0, 0, 0, 0, 4, 4, 0, 0, 0, 0, 0], 'id': '000000553664'}
+
+
+{'uid': 'ashgabat', 'sent': 'A couple of black cows standing on the top of a grassy hill.', 'word_times': [2225, 1578, 1412, 2209, 1578, 1944, 1394, 1502, 2495, 1102, 1121, 4818, 1251], 'accuracy': [0, 0, 0, 0, 0, 3, 4, 3, 0, 4, 4, 2, 4], 'id': '000000244411'}
+{'uid': 'ashgabat', 'sent': 'A couple of black cows standing on the top of a grassy hill.', 'word_times': [2231, 808, 772, 1040, 1265, 1680, 2180, 3148, 1223, 1038, 2439, 1314, 3781], 'confidence': [0, 0, 0, 0, 0, 1, 2, 3, 0, 4, 4, 0, 3], 'id': '000000244411'}
+
+
+{'uid': 'ashgabat', 'sent': 'United States President Barack Obama gives a speech in front of American and Russian flags.', 'word_times': [2279, 1098, 2366, 2314, 825, 2205, 3094, 2153, 1209, 1033, 710, 2480, 2331, 1908, 3907], 'accuracy': [0, 4, 1, 0, 4, 2, 1, 2, 4, 4, 4, 1, 1, 2, 1], 'id': '000000344268'}
+{'uid': 'ashgabat', 'sent': 'United States President Barack Obama gives a speech in front of American and Russian flags.', 'word_times': [2877, 4647, 2467, 3009, 1017, 2863, 2457, 2130, 2589, 2200, 975, 1141, 1752, 3003, 2826], 'confidence': [0, 3, 3, 1, 4, 1, 0, 1, 2, 4, 4, 4, 1, 1, 1], 'id': '000000344268'}
+
+
+{'uid': 'lusaka', 'sent': 'Food trucks are parked around small oval tables.', 'word_times': [1184, 1521, 1406, 1605, 2382, 1450, 1110, 1173], 'accuracy': [0, 0, 0, 0, 2, 0, 0, 0], 'id': '000000153011'}
+{'uid': 'lusaka', 'sent': 'Food trucks are parked around small oval tables.', 'word_times': [2561, 1565, 992, 1637, 791, 1544, 1167, 731], 'confidence': [4, 2, 2, 3, 1, 3, 2, 1], 'id': '000000153011'}
+
+
+{'uid': 'lusaka', 'sent': 'A black sculpture of a torso is on the floor next to a TV.', 'word_times': [2230, 4200, 2050, 1332, 1428, 2322, 1269, 1368, 918, 1217, 1674, 718, 1005, 1458], 'accuracy': [4, 2, 0, 3, 4, 1, 0, 1, 3, 1, 2, 4, 4, 0], 'id': '000000154431'}
+{'uid': 'lusaka', 'sent': 'A black sculpture of a torso is on the floor next to a TV.', 'word_times': [1805, 1338, 2112, 2233, 925, 2257, 1621, 1648, 1183, 1265, 164681, 1412, 999, 1037], 'confidence': [4, 3, 3, 3, 4, 0, 3, 2, 3, 2, 3, 4, 4, 1], 'id': '000000154431'}
+
+
+{'uid': 'tiraspol', 'sent': 'A medium sized home kitchen with wood cabinets.', 'word_times': [3793, 3338, 20962, 1584, 1929, 1475, 1401, 1833], 'accuracy': [0, -1, -1, -1, -1, -1, -1, -1], 'id': '000000437898'}
+{'uid': 'tiraspol', 'sent': 'A medium sized home kitchen with wood cabinets.', 'word_times': [8049, 35246, 47127, 1591, 1511, 1382, 878, 3567], 'confidence': [2, 0, 0, 0, 0, 0, 0, 0], 'id': '000000437898'}
+
+
+{'uid': 'tiraspol', 'sent': 'Several plates of food are set on a table.', 'word_times': [7321, 1481, 9649, 7273, 4235, 3810, 1274, 2353, 1178], 'accuracy': [-1, -1, 1, 1, -1, 1, 4, 4, 4], 'id': '000000062554'}
+{'uid': 'tiraspol', 'sent': 'Several plates of food are set on a table.', 'word_times': [32763, 1560, 1246, 2912, 1102, 1597, 1975, 1429, 983], 'confidence': [0, 0, 0, 0, 0, 0, 0, 0, 0], 'id': '000000062554'}
+
+
+{'uid': 'tiraspol', 'sent': 'A person sits in a small boat on the water.', 'word_times': [1249, 1538, 8306, 1857, 1145, 1842, 3689, 2833, 1490, 4666], 'accuracy': [4, -1, 4, 3, 4, -1, 1, 1, 3, 3], 'id': '000000116439'}
+{'uid': 'tiraspol', 'sent': 'A person sits in a small boat on the water.', 'word_times': [2667, 1439, 3318, 2894, 2976, 1502, 4671, 7423, 2894, 3014], 'confidence': [1, 0, 1, 2, 3, 0, 1, 1, 3, 2], 'id': '000000116439'}
+
+
+{'uid': 'tiraspol', 'sent': 'Young children sharing a laptop in a messy room with several laptops, books, and papers.', 'word_times': [4338, 1513, 3058, 1826, 4057, 1873, 1457, 1793, 1753, 1257, 2265, 3875, 1744, 1832, 2097], 'accuracy': [0, -1, -1, 0, 1, -1, 4, -1, 3, -1, 0, 1, -1, -1, -1], 'id': '000000529148'}
+{'uid': 'tiraspol', 'sent': 'Young children sharing a laptop in a messy room with several laptops, books, and papers.', 'word_times': [2550, 2430, 1887, 1438, 2399, 1975, 1759, 2239, 1911, 4359, 2727, 1174, 2262, 1113, 3783], 'confidence': [1, 0, 0, 1, 1, 0, 1, 0, 1, 0, 1, 1, 0, 0, 0], 'id': '000000529148'}
+
+
+{'uid': 'bangkok', 'sent': 'A person sits in a small boat on the water.', 'word_times': [1353, 4737, 9795, 4170, 1737, 1865, 3874, 3873, 1384, 4050], 'accuracy': [4, -1, 1, 3, 4, 0, 1, 1, 3, 1], 'id': '000000116439'}
+{'uid': 'bangkok', 'sent': 'A person sits in a small boat on the water.', 'word_times': [8239, 2928, 5479, 3607, 3560, 10432, 2151, 4856, 1408, 4184], 'confidence': [1, 0, 1, 3, 4, 3, 2, 1, 4, 2], 'id': '000000116439'}
+
+
+{'uid': 'bangkok', 'sent': 'People watching an on screen presentation of a gentleman in a suit.', 'word_times': [2249, 2986, 2017, 3009, 4586, 2057, 1913, 4161, 1993, 1465, 970, 2353], 'accuracy': [0, 1, 3, 0, 1, 1, 3, 0, 1, 4, 4, 1], 'id': '000000008021'}
+{'uid': 'bangkok', 'sent': 'People watching an on screen presentation of a gentleman in a suit.', 'word_times': [10092, 4000, 2983, 3456, 4143, 7664, 2200, 12369, 2007, 4992, 1807, 6632], 'confidence': [4, 2, 3, 2, 2, 1, 3, 1, 1, 2, 4, 1], 'id': '000000008021'}
+
+
+{'uid': 'bangkok', 'sent': 'A couple of black cows standing on the top of a grassy hill.', 'word_times': [1225, 4361, 3602, 2329, 3218, 4042, 2441, 1416, 3954, 1025, 841, 8299, 2073], 'accuracy': [4, 1, 0, 0, 1, 2, 3, 3, 0, 4, 4, 1, 2], 'id': '000000244411'}
+{'uid': 'bangkok', 'sent': 'A couple of black cows standing on the top of a grassy hill.', 'word_times': [2560, 1247, 5392, 3463, 4400, 4063, 4895, 2016, 2928, 2023, 1344, 4535, 8159], 'confidence': [3, 0, 2, 1, 1, 2, 3, 4, 2, 4, 4, 2, 3], 'id': '000000244411'}
+
+
+{'uid': 'bangkok', 'sent': 'Young children sharing a laptop in a messy room with several laptops, books, and papers.', 'word_times': [1554, 2825, 2217, 858, 3089, 1801, 1114, 1650, 1231, 4440, 2234, 2368, 2649, 1177, 2664], 'accuracy': [0, 1, 0, 4, 1, 0, 4, 0, 4, 0, 0, 1, 1, 4, 1], 'id': '000000529148'}
+{'uid': 'bangkok', 'sent': 'Young children sharing a laptop in a messy room with several laptops, books, and papers.', 'word_times': [3385, 1455, 2776, 14920, 2423, 3720, 1623, 5719, 1984, 2713, 4312, 5024, 4192, 2272, 1936], 'confidence': [3, 0, 1, 3, 0, 1, 4, 1, 2, 0, 3, 1, 1, 3, 1], 'id': '000000529148'}
+
+
+{'uid': 'bangkok', 'sent': 'United States President Barack Obama gives a speech in front of American and Russian flags.', 'word_times': [1385, 1824, 1913, 9874, 833, 3643, 1153, 3856, 3673, 1736, 1897, 1922, 2521, 2769, 2794], 'accuracy': [0, 4, 0, 1, 4, 1, 4, 1, 2, 0, 4, 0, 0, 2, 1], 'id': '000000344268'}
+{'uid': 'bangkok', 'sent': 'United States President Barack Obama gives a speech in front of American and Russian flags.', 'word_times': [7845, 3401, 1632, 6120, 1159, 2839, 4623, 1648, 2320, 1928, 1024, 3655, 7792, 4632, 3183], 'confidence': [3, 0, 4, 2, 4, 2, 2, 1, 2, 4, 4, 4, 3, 2, 3], 'id': '000000344268'}
+
+
